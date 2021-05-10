@@ -1,0 +1,9 @@
+[Unit]
+Description=HackerOne Parse Service
+
+[Service]
+ExecStart=/usr/bin/python3 /root/hackerone/hackeroneparse.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
