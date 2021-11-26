@@ -43,6 +43,6 @@ chat_id =                            <----do not fill in yet
 4. Exec `systemctl start hackeroneparse` for start hackeroneparse service.
 5. You will receive message like a `HackerOneParse was started` in your Telegram app.
 
-#### That is all! Service start and working
-- also you can check current status via `systemctl status hackeroneparse` command
-- and stop service via `systemctl stop hackeroneparse`.
+#### That is all! Service has been started and now is working
+- also you can check current status via `systemctl status hackeroneparse` command.
+- if you need stop the service, use `systemctl stop hackeroneparse` command.
