@@ -39,9 +39,9 @@ chat_id =                            <----do not fill in yet
 
  `ExecStart=/usr/bin/python3 /your_directory/hackeroneparse.py`
  
-3. Exec command `sudo systemctl daemon-reload` for reload services
+3. Exec command `sudo systemctl daemon-reload` for reload services.
 4. Exec `systemctl start hackeroneparse` for start hackeroneparse service.
-5. you will receive message like a `HackerOneParse was started` in your Telegram app.
+5. You will receive message like a `HackerOneParse was started` in your Telegram app.
 
 #### That is all! Service start and working
 - also you can check current status via `systemctl status hackeroneparse` command
