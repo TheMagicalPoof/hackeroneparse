@@ -29,8 +29,8 @@ api_token = 559643:AA-EKLx-j1J       <----you telegram bot token
 chat_id =                            <----do not fill in yet
 ```
 4. send a message to your bot in Telegram app.
-5. Run script second time, it will offer the required ```chat_id```
-6. fill your `chat_id = ` in `config.ini` file.
+5. Run script second time, it will offer the required ```chat_id``` number.
+6. now fill your `chat_id =` in `config.ini` file.
 7. Run script.
 ### To do round-the-clock scanning:
 #### for Linux
