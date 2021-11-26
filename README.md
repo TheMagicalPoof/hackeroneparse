@@ -17,7 +17,7 @@ To run this script, you need to follow these steps:
 3. put the `hackeroneparse.py` script in the desired directory.
 4. Run script via `python /your_directory/hackeroneparse.py` in `cmd`, now ```config.ini``` file has been created.
 
-### Script can work in console mode, but if you want receive notifications, follow steps:
+### Script can work in console mode, but if you want receive notifications to you telegram, follow steps:
 1. need create TelegramBot following this instruction --> https://sendpulse.com/knowledge-base/chatbot/create-telegram-chatbot
 3. in `config.ini` file must be write:
   ```
